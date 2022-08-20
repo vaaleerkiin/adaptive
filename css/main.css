@@ -556,6 +556,12 @@ img {
   padding: 10px 28px;
 }
 
+.footer {
+  margin-top: 50px;
+  padding-top: 100px;
+  padding-bottom: 200px;
+}
+
 /*  */
 
 .backdrop {
